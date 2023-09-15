@@ -17,7 +17,7 @@ class HornedBeast extends React.Component {
   }
   render() {
     return (
-      <Card style={{ border: 'thin solid red' }}>
+      <Card className="card-hover" style={{ border: 'thin solid red' }}>
         <Card.Img className="card-image" variant="top" src={this.props.image_url} />
         <Card.Body>
           <Card.Title>Beast Name: {this.props.title}</Card.Title>

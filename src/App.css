@@ -36,6 +36,9 @@
 /* .card {
   padding: 2em;
 } */
+.card-hover:hover {
+  background-color: #76BED0;
+}
 
 .card-image {
   max-width: 540px;
