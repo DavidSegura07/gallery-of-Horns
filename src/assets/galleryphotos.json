@@ -1,0 +1,162 @@
+[
+    {
+      "_id": 1,
+      "image_url": "public/hornbeast-1.jpg",
+      "title": "UniWhal",
+      "description": "a 3 horn dog",
+      "keyword": "Dog",
+      "horns": 3
+    },
+    {
+      "_id": 2,
+      "image_url": "public/hornbeast-2.jpg",
+      "title": "Mammoth dog",
+      "description": "Terrofying mammoth tooth dog",
+      "keyword": "Dog",
+      "horns": 2
+    },
+    {
+      "_id": 3,
+      "image_url": "public/hornbeast-3.jpg",
+      "title": "Lava Battleguard",
+      "description": "Lava warrior beast ready to fight",
+      "keyword": "Battleguard",
+      "horns": 4
+    },
+    {
+      "_id": 4,
+      "image_url": "public/hornbeast-4.jpg",
+      "title": "UniLego",
+      "description": "beast ready to fight",
+      "keyword": "Battleguard",
+      "horns": 2
+    },
+    {
+      "_id": 5,
+      "image_url": "public/hornbeast-5.jpg",
+      "title": "Swamp Battleguard",
+      "description": "A swamp monster",
+      "keyword": "Battleguard",
+      "horns": 2
+    },
+    {
+      "_id": 6,
+      "image_url": "public/hornbeast-6.jpg",
+      "title": "2 head beast dragon",
+      "description": "2 headed dragon flying above the castles",
+      "keyword": "Dragon",
+      "horns": 4
+    },
+    {
+      "_id": 7,
+      "image_url": "public/hornbeast-7.jpg",
+      "title": "Terror Dragon",
+      "description": "Dragon flying down",
+      "keyword": "Dragon",
+      "horns": 2
+    },
+    {
+      "_id": 8,
+      "image_url": "public/hornbeast-8.jpg",
+      "title": "Cera the Castle back dragon",
+      "description": "Dragon flying with a castle in his back.",
+      "keyword": "Dragon",
+      "horns": 4
+    },
+    {
+      "_id": 9,
+      "image_url": "public/hornbeast-9.jpg",
+      "title": "Flame Phoenix",
+      "description": "A burning Phoenix",
+      "keyword": "Phoenix",
+      "horns": 1
+    },
+    {
+      "_id": 10,
+      "image_url": "public/hornbeast-10.jpg",
+      "title": "Blue feather phoenix",
+      "description": "Blue feather phoenix ",
+      "keyword": "phoenix",
+      "horns": 2
+    },
+    {
+      "_id": 11,
+      "image_url": "public/hornbeast-11.jpg",
+      "title": "Believe phoenix",
+      "description": "big horn phoenix",
+      "keyword": "Phoenix",
+      "horns": 5
+    },
+    {
+      "_id": 12,
+      "image_url": "public/hornbeast-12.jpg",
+      "title": "2 Horn Wolf",
+      "description": "Lone wolf ready to lead the pack",
+      "keyword": "Wolf",
+      "horns": 2
+    },
+    {
+      "_id": 13,
+      "image_url": "public/hornbeast-13.jpg",
+      "title": "4 Horn Wolf",
+      "description": "4 is better then 2 horns",
+      "keyword": "Wolf",
+      "horns": 4
+    },
+    {
+      "_id": 14,
+      "image_url": "public/hornbeast-14.jpg",
+      "title": " Alex the Panther Warrior",
+      "description": "small horn warrior",
+      "keyword": "Panther",
+      "horns": 2
+    },
+    {
+      "_id": 15,
+      "image_url": "public/hornbeast-15.jpg",
+      "title": "Addax Panther Warrior",
+      "description": "Will destroy any warrior it faces",
+      "keyword": "Panther",
+      "horns": 2
+    },
+    {
+      "_id": 16,
+      "image_url": "public/hornbeast-16.jpg",
+      "title": " Panther Warrior",
+      "description": "ready to protect",
+      "keyword": "Panther",
+      "horns": 2
+    },
+    {
+      "_id": 17,
+      "image_url": "public/hornbeast-17.jpg",
+      "title": "Happy Jackson's Chameleon",
+      "description": "These are really common in Hawaii",
+      "keyword": "Chameleon",
+      "horns": 3
+    },
+    {
+      "_id": 18,
+      "image_url": "public/hornbeast-18.jpg",
+      "title": "Serious Jackson's Chameleon",
+      "description": "This one is very serious.",
+      "keyword": "Chameleon",
+      "horns": 4
+    },
+    {
+      "_id": 19,
+      "image_url": "public/hornbeast-19.jpg",
+      "title": "Horned Lizard",
+      "description": "Fave food: ants",
+      "keyword": "Chameleon",
+      "horns": 1
+    },
+    {
+      "_id": 20,
+      "image_url": "public/hornbeast-20.jpg",
+      "title": "Smaug",
+      "description": "Fan illustration of Smaug from 'The Hobbit'",
+      "keyword": "Dragon",
+      "horns": 100
+    }
+  ]
