@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
-import HornedBeast from "./hornedbeast"; // Make sure this path is correct
+import HornedBeast from "./HornedBeast"; // Make sure this path is correct
 import data from "../assets/galleryphotos.json"; // Make sure this path is correct
 
 class Gallery extends React.Component {
