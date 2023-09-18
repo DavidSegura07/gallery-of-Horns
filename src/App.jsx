@@ -2,9 +2,9 @@
 `Header`, `Gallery`, and `Footer` from their respective files. */
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from './components/Header';
-import Gallery from './components/Gallery';
-import Footer from './components/Footer';
+import Header from './components/Header.jsx';
+import Gallery from './components/Gallery.jsx';
+import Footer from './components/Footer.jsx';
 
 function App() {
   return (
