@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-
 import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
@@ -14,11 +13,15 @@ class HornedBeast extends React.Component {
 
   handleClick = () => {
     this.setState({ isFavorite: this.state.isFavorite + 1 })
+    this.props.setSelectBeast(this.props.beast)
   }
-  render() {
+  render() { console.log(this.props.beast)
     return (
-      <Card className="card-hover" style={{ border: 'thin solid red' }}>
-        <Card.Img className="card-image" variant="top" src={this.props.image_url} />
+      <Card 
+      className="card-hover" 
+      style={{ border: 'thin solid red' }}
+      >
+        <Card.Img onClick={this.handleClick} className="card-image" variant="top" src={this.props.image_url} />
         <Card.Body>
           <Card.Title>Beast Name: {this.props.title}</Card.Title>
           <Card.Text >Description: {this.props.description}</Card.Text>
@@ -32,3 +35,4 @@ class HornedBeast extends React.Component {
   }
 }
 export default HornedBeast;
+
