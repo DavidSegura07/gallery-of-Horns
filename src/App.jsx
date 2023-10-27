@@ -59,9 +59,7 @@ filterHornsEvent = (e) => {
           <option value="1">One Horn</option>
           <option value="2">Two Horns</option>
           <option value="3">Three Horns</option>
-          <option value="4">Four Horns</option>
-          <option value="5">Five Horns</option>
-          <option value="100">More than Five Horns</option>
+          <option value="100">More than Four Horns</option>
         </Form.Select>
 
         <Gallery
