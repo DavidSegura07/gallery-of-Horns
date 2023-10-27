@@ -4,17 +4,16 @@ import React from "react";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-
-import HornedBeast from "./HornedBeast"; // Make sure this path is correct
-import data from "../assets/galleryphotos.json"; // Make sure this path is correct
+import HornedBeast from "./HornedBeast"; 
 
 class Gallery extends React.Component {
     render() { console.log(this.props.data)
         return (
             <Container>
                 <Row>
-                    {data.map((beast, idx) => (
-                        <Col xs={1} sm={3} md={4} lg={5} key={idx}>
+                    {this.props.data.map((beast, idx) => (
+                        <Col xs={2} sm={3} md={4} lg={2} key={idx}>
+
                             <HornedBeast
                                 title={beast.title}
                                 image_url={beast.image_url}
